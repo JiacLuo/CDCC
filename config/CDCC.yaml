@@ -1,0 +1,12 @@
+algorithm: algorithm.CDCC.model.model
+data_dir: data/test
+out_path: log
+
+algorithm_parameters:
+  device: cuda
+  epochs: 20
+  lr: 0.01
+  num_layers: 3
+  dropout_rate: 0.5
+  batch_size: 256
+
