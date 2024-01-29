@@ -4,7 +4,7 @@ out_path: log
 
 algorithm_parameters:
   device: cuda
-  epochs: 20
+  epochs: 300
   lr: 0.01
   num_layers: 3
   dropout_rate: 0.5
