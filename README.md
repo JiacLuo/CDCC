@@ -2,7 +2,7 @@
 The source code is for reproducing experiments of the paper entitled "Cross-Domain Contrastive Learning for Time Series Clustering"
 # Datasets
 The UCR dataset used in the paper are available at : http://www.timeseriesclassification.com/ .
-In order to read the data intuitively and save space, we converted the data into csv format and compressed it. 
+In order to read the data intuitively and save space, we converted the data into csv format and compressed it. The processed data is available at: https://pan.baidu.com/s/1XeKQUaSPyENEp3SDS3q0sA  password：AK47
 
 # Usage
 
